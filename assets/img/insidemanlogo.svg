@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   height="385mm"
+   viewBox="0 0 744.09449 1364.1726"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22627417"
-     inkscape:cx="2171.7779"
+     inkscape:cx="1466.8808"
      inkscape:cy="114.32626"
      inkscape:document-units="px"
      inkscape:current-layer="g5594-9-7"
@@ -51,7 +51,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,311.81119)">
     <g
        transform="matrix(0.24758739,0,0,0.24758739,-1369.1503,9828.9102)"
        id="g5594-9-7"
@@ -62,16 +63,16 @@
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:46.31000137;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect6550-0-3"
          width="2860.354"
-         height="4199.9048"
-         x="5579.2446"
-         y="-39659.176"
+         height="5163.8008"
+         x="5587.3228"
+         y="-40878.973"
          ry="0"
          inkscape:export-filename="/home/jonathan/insidemanlogoinside.png"
          inkscape:export-xdpi="96.761902"
          inkscape:export-ydpi="96.761902" />
       <g
          id="g4722-3-6"
-         transform="matrix(0.83176868,0,0,1.3481208,9810.2621,-45674.94)"
+         transform="matrix(0.83176868,0,0,1.3481208,9818.3401,-46894.718)"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
          inkscape:export-xdpi="96.761902"
          inkscape:export-ydpi="96.761902">
@@ -133,7 +134,7 @@
       </g>
       <g
          id="g6126-8-3"
-         transform="matrix(0.87498229,0,0,0.53984993,9201.7939,-40734.941)"
+         transform="matrix(0.87498229,0,0,0.53984993,9209.8719,-41954.719)"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
          inkscape:export-xdpi="96.761902"
          inkscape:export-ydpi="96.761902">
@@ -195,14 +196,14 @@
       </g>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#d33a3e;stroke-width:25.03342247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 5646.5951,-39284.218 335.5091,363.017 201.3056,-70.26 369.0601,679.183 123.0197,-117.102 212.4884,339.598 201.3056,-117.105 89.4695,93.683 324.3245,-81.972 290.7752,304.462 156.5706,-46.838 413.7942,538.666"
+         d="m 5654.6731,-40503.996 335.5091,363.017 201.3056,-70.26 369.0601,679.183 123.0197,-117.102 212.4884,339.598 201.3056,-117.105 89.4695,93.683 324.3245,-81.972 290.7752,304.462 156.5706,-46.838 413.7942,538.666"
          id="path4774-3-2"
          inkscape:connector-curvature="0"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
          inkscape:export-xdpi="96.761902"
          inkscape:export-ydpi="96.761902" />
       <g
-         transform="matrix(-1.0543161,0,0,1.0543161,3527.7792,-48366.517)"
+         transform="matrix(-1.0543161,0,0,1.0543161,3535.8572,-49586.295)"
          id="g6053-1-8"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
          inkscape:export-xdpi="96.761902"
@@ -307,7 +308,7 @@
         </g>
       </g>
       <g
-         transform="matrix(-1.0543161,0,0,1.0543161,3947.3852,-48446.889)"
+         transform="matrix(-1.0543161,0,0,1.0543161,3955.4632,-49666.667)"
          id="g6071-6-4"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
          inkscape:export-xdpi="96.761902"
@@ -394,8 +395,8 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:346.22903442px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d33a3e;fill-opacity:0.98039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="5897.8374"
-         y="-37124.812"
+         x="5905.9155"
+         y="-38344.609"
          id="text6086-8-2"
          sodipodi:linespacing="100%"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
@@ -403,11 +404,11 @@
          inkscape:export-ydpi="96.761902"><tspan
            sodipodi:role="line"
            id="tspan6088-6-0"
-           x="5897.8374"
-           y="-37124.812"
+           x="5905.9155"
+           y="-38344.609"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Futura-Bold;-inkscape-font-specification:'Futura-Bold Medium'">INSIDE MAN</tspan></text>
       <g
-         transform="matrix(1.0543161,0,0,1.0543161,10603.893,-48339.915)"
+         transform="matrix(1.0543161,0,0,1.0543161,10611.971,-49559.693)"
          id="g6041-4-6-6"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
          inkscape:export-xdpi="96.761902"
@@ -471,24 +472,25 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:282.86749268px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d33a3e;fill-opacity:0.98039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="5842.1016"
-         y="-36512.785"
+         style="font-style:normal;font-weight:normal;font-size:332.46334839px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d33a3e;fill-opacity:0.98039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="5848.8901"
+         y="-37424.84"
          id="text6086-8-2-3"
          sodipodi:linespacing="100%"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
          inkscape:export-xdpi="96.761902"
-         inkscape:export-ydpi="96.761902"><tspan
+         inkscape:export-ydpi="96.761902"
+         onclick="window.open(&quot;https://github.com/insidemanband&quot;);"><tspan
            sodipodi:role="line"
            id="tspan6088-6-0-6"
-           x="5842.1016"
-           y="-36512.785"
+           x="5848.8901"
+           y="-37424.84"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Futura-Bold;-inkscape-font-specification:'Futura-Bold Medium'">GitHub</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:282.86749268px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d33a3e;fill-opacity:0.98039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="5854.8311"
-         y="-36016.844"
+         style="font-style:normal;font-weight:normal;font-size:332.46334839px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d33a3e;fill-opacity:0.98039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="5863.8516"
+         y="-36728.855"
          id="text6086-8-2-3-7"
          sodipodi:linespacing="100%"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
@@ -496,14 +498,14 @@
          inkscape:export-ydpi="96.761902"><tspan
            sodipodi:role="line"
            id="tspan6088-6-0-6-5"
-           x="5854.8311"
-           y="-36016.844"
+           x="5863.8516"
+           y="-36728.855"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Futura-Bold;-inkscape-font-specification:'Futura-Bold Medium'">YouTube</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:282.86749268px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d33a3e;fill-opacity:0.98039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="5882.1172"
-         y="-35524.59"
+         style="font-style:normal;font-weight:normal;font-size:332.46334839px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d33a3e;fill-opacity:0.98039216;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="5895.9219"
+         y="-36037.195"
          id="text6086-8-2-3-7-3"
          sodipodi:linespacing="100%"
          inkscape:export-filename="/home/jonathan/insidemanlogo.png"
@@ -511,8 +513,8 @@
          inkscape:export-ydpi="96.761902"><tspan
            sodipodi:role="line"
            id="tspan6088-6-0-6-5-5"
-           x="5882.1172"
-           y="-35524.59"
+           x="5895.9219"
+           y="-36037.195"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Futura-Bold;-inkscape-font-specification:'Futura-Bold Medium'">Twitter</tspan></text>
     </g>
     <g
